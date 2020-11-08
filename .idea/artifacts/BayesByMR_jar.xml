@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="BayesByMR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BayesByMR_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BayesByMR.jar">
+        <element id="module-output" name="BayesByMR" />
+      </element>
+      <element id="library" level="project" name="yarn" />
+    </root>
+  </artifact>
+</component>

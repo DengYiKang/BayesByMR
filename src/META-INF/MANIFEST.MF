@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: Test
+Class-Path: hadoop-client-api-3.2.1.jar hadoop-client-runtime-3.2.1.jar 
+ hadoop-client-minicluster-3.2.1.jar hadoop-kms-3.2.1.jar hadoop-nfs-3.2
+ .1.jar hadoop-common-3.2.1.jar hadoop-common-3.2.1-tests.jar hadoop-hdf
+ s-3.2.1.jar hadoop-hdfs-nfs-3.2.1.jar hadoop-hdfs-rbf-3.2.1.jar hadoop-
+ hdfs-3.2.1-tests.jar hadoop-hdfs-client-3.2.1.jar hadoop-hdfs-httpfs-3.
+ 2.1.jar hadoop-hdfs-rbf-3.2.1-tests.jar hadoop-hdfs-client-3.2.1-tests.
+ jar hadoop-hdfs-native-client-3.2.1.jar hadoop-hdfs-native-client-3.2.1
+ -tests.jar hadoop-mapreduce-examples-3.2.1.jar hadoop-mapreduce-client-
+ hs-3.2.1.jar hadoop-mapreduce-client-app-3.2.1.jar hadoop-mapreduce-cli
+ ent-core-3.2.1.jar hadoop-mapreduce-client-common-3.2.1.jar hadoop-mapr
+ educe-client-shuffle-3.2.1.jar hadoop-mapreduce-client-uploader-3.2.1.j
+ ar hadoop-mapreduce-client-jobclient-3.2.1.jar hadoop-mapreduce-client-
+ hs-plugins-3.2.1.jar hadoop-mapreduce-client-nativetask-3.2.1.jar hadoo
+ p-mapreduce-client-jobclient-3.2.1-tests.jar hadoop-yarn-api-3.2.1.jar 
+ hadoop-yarn-client-3.2.1.jar hadoop-yarn-common-3.2.1.jar hadoop-yarn-r
+ egistry-3.2.1.jar hadoop-yarn-submarine-3.2.1.jar hadoop-yarn-server-te
+ sts-3.2.1.jar hadoop-yarn-services-api-3.2.1.jar hadoop-yarn-server-com
+ mon-3.2.1.jar hadoop-yarn-server-router-3.2.1.jar hadoop-yarn-services-
+ core-3.2.1.jar hadoop-yarn-server-web-proxy-3.2.1.jar hadoop-yarn-serve
+ r-nodemanager-3.2.1.jar hadoop-yarn-server-resourcemanager-3.2.1.jar ha
+ doop-yarn-server-sharedcachemanager-3.2.1.jar hadoop-yarn-applications-
+ distributedshell-3.2.1.jar hadoop-yarn-server-timeline-pluginstorage-3.
+ 2.1.jar hadoop-yarn-server-applicationhistoryservice-3.2.1.jar hadoop-y
+ arn-applications-unmanaged-am-launcher-3.2.1.jar
+

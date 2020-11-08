@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="yarn">
+    <CLASSES>
+      <root url="file://D:/jar/yarn" />
+      <root url="file://D:/jar/client" />
+      <root url="file://D:/jar/common" />
+      <root url="file://D:/jar/hdfs" />
+      <root url="file://D:/jar/mapreduce" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/jar/common/jdiff" />
+      <root url="file://D:/jar/hdfs/jdiff" />
+      <root url="file://D:/jar/mapreduce/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://D:/jar/client" recursive="false" />
+    <jarDirectory url="file://D:/jar/common" recursive="false" />
+    <jarDirectory url="file://D:/jar/hdfs" recursive="false" />
+    <jarDirectory url="file://D:/jar/mapreduce" recursive="false" />
+    <jarDirectory url="file://D:/jar/yarn" recursive="false" />
+  </library>
+</component>
